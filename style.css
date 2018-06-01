@@ -1,0 +1,52 @@
+body{
+  font-family: arial;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: normal;
+}
+
+#verticle-line{
+  height: 1px;
+  width: 800px;
+  background-color: silver;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+footer{
+  background-color: #222;
+  border-color: #080808;
+  color: #fff;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+.carousel-inner > .item {min-height: 700px; background-size: cover; background-position: center center;}
+
+.backtop{
+  color: #fff;
+  font-size: 15px;
+}
+
+.instagram{
+   color: #fff;
+   margin-right: 30px;
+}
+
+.deviantart{
+  color: #fff;
+  margin-right: 30px;
+}
+
+.emailme{
+  color: #fff;
+  margin-right: 30px;
+}
+
+.google{
+  color: #fff;
+  margin-right: 30px;
+}
